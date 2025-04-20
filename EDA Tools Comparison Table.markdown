@@ -20,4 +20,4 @@
 | **Parasitic Extraction** | Quantus Extraction Solution              | StarRC (Parasitic Extraction)             | Magic VLSI      |
 | **Technology Support**   | Strong (TSMC, Intel, Samsung, GF PDKs)   | Strong (TSMC, Intel, Samsung, GF PDKs)    | SkyWater 130nm, some open PDKs |
 | **License Type**         | Proprietary (subscription/token-based)   | Proprietary (subscription/token-based)    | Open-source (Free to use)      |
-| **Best For**             | RF, mixed-signal, high-precision analog  | Advanced nodes, photonic, mixed-signal    | Academic, prototyping, small-scale designs |
+| **Best For**             | RF, mixed-signal, high-precision analog  | Advanced nodes, photonic, mixed-signal    | Academia, Startups, Research |
