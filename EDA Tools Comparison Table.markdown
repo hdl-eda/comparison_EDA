@@ -8,6 +8,7 @@
 | **Timing Analysis**      | Tempus Timing Signoff Solution          | PrimeTime, PrimeTime SI                  | OpenSTA                                  |
 | **Physical Verification**| Pegasus Verification System, PVS        | IC Validator                             | Magic VLSI           |
 | **Power Analysis**       | Joules Power Analysis, Voltus IC Power   | PrimePower, PowerCompiler                | OpenSTA, OpenROAD |
+|**Best For**             | Complex ASICs, high-performance digital  | Advanced nodes, AI-optimized designs     | Learning, prototyping, small-scale ASICs |
 
 # Analog IC Design
 
@@ -20,4 +21,4 @@
 | **Parasitic Extraction** | Quantus Extraction Solution              | StarRC (Parasitic Extraction)             | Magic VLSI      |
 | **Technology Support**   | Strong (TSMC, Intel, Samsung, GF PDKs)   | Strong (TSMC, Intel, Samsung, GF PDKs)    | SkyWater 130nm, some open PDKs |
 | **License Type**         | Proprietary (subscription/token-based)   | Proprietary (subscription/token-based)    | Open-source (Free to use)      |
-| **Best For**             | RF, mixed-signal, high-precision analog  | Advanced nodes, photonic, mixed-signal    | Academia, Startups, Research |
+| **Best For**             | RF, mixed-signal, high-precision analog  | Advanced nodes, photonic, mixed-signal    | Academia, Startups, Research, prototyping, small-scale designs |
