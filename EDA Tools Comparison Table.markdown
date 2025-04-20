@@ -2,11 +2,11 @@
 
 | **Category**             | **Cadence**                              | **Synopsys**                              | **Open-Source EDA**                      |
 |--------------------------|------------------------------------------|-------------------------------------------|------------------------------------------|
-| **Logic Simulation**     | NCSim, Xcelium Logic Simulator           | VCS, Verdi (functional verification)      | Icarus Verilog, GHDL, Verilator          |
+| **Logic Simulation**     | NCSim, Xcelium Logic Simulator           | VCS, Verdi (functional verification)      | Icarus Verilog, Verilator          |
 | **RTL Synthesis**        | Genus Synthesis Solution                | Design Compiler, DC Ultra                | Yosys                                    |
-| **Physical Design**      | Innovus Implementation System            | IC Compiler II                           | OpenROAD, OpenLane, Qflow                |
+| **Physical Design**      | Innovus Implementation System            | IC Compiler II                           | OpenROAD, OpenLane               |
 | **Timing Analysis**      | Tempus Timing Signoff Solution          | PrimeTime, PrimeTime SI                  | OpenSTA                                  |
-| **Physical Verification**| Pegasus Verification System, PVS        | IC Validator                             | Magic VLSI, KLayout, Netgen              |
+| **Physical Verification**| Pegasus Verification System, PVS        | IC Validator                             | Magic VLSI           |
 | **Power Analysis**       | Joules Power Analysis, Voltus IC Power   | PrimePower, PowerCompiler                | OpenSTA, OpenROAD |
 
 # Analog IC Design
@@ -15,7 +15,7 @@
 |--------------------------|------------------------------------------|-------------------------------------------|------------------------------------------|
 | **Schematic Capture**    | Virtuoso Schematic Editor                | Custom Compiler (Schematic Editor)        | Xschem                             |
 | **Simulation**           | Spectre, Spectre RF, AMS Designer        | PrimeSim (HSPICE, FineSim, CustomSim)     | Ngspice                            |
-| **Layout Design**        | Virtuoso Layout Suite                    | Custom Compiler (Layout Editor)           | Magic VLSI, KLayout                      |
+| **Layout Design**        | Virtuoso Layout Suite                    | Custom Compiler (Layout Editor)           | Magic VLSI                    |
 | **DRC/LVS**              | Assura, PVS (DRC, LVS, ERC)              | IC Validator (DRC, LVS)                   | Magic VLSI, Netgen (LVS)        |
 | **Parasitic Extraction** | Quantus Extraction Solution              | StarRC (Parasitic Extraction)             | Magic VLSI      |
 | **Technology Support**   | Strong (TSMC, Intel, Samsung, GF PDKs)   | Strong (TSMC, Intel, Samsung, GF PDKs)    | SkyWater 130nm, some open PDKs |
